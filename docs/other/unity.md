@@ -41,7 +41,7 @@ The Unity extension for Visual Studio Code depends on the `Visual Studio Editor`
 
 ![Unity Package Manager](images/unity/unity-packagemanager.png)
 
-> **Note**: The `Visual Studio Code Editor` package published by Unity is a legacy package from Unity that is not maintained anymore.
+> **Note**: The `Visual Studio Code Editor` package published by Unity is a legacy package from Unity that is not maintained anymore and should be removed before installing this package.
 
 ## Set VS Code as Unity's external editor
 
